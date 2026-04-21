@@ -1,13 +1,28 @@
-PROJET : GESTION D'UN CATALOGUE DE FILMS
-Ce dépôt contient un script SQL permettant de créer et de gérer un catalogue personnel de films. Ce travail a été réalisé dans le cadre de ma deuxième année de licence en informatique.
-FONCTIONNEMENT DU PROJET
+# 🎬 Projet : Gestion d'un Catalogue de Films
+
+Ce dépôt contient un script SQL permettant de créer et de gérer un catalogue personnel de films.  
+Ce travail a été réalisé dans le cadre de ma deuxième année de licence en informatique.
+
+---
+
+## ⚙️ Fonctionnement du projet
+
 Le script permet de structurer les informations suivantes :
-• Films : Enregistrement des titres et des dates.
-• Acteurs : Liste des personnes liées aux projets.
-• Catégories : Organisation par genre.
-CONTENU DU SCRIPT
-1.	STRUCTURE : Création des tables et des liens entre elles.
-2.	DONNÉES : Ajout d'une sélection de films et d'acteurs pour tester la base.
-3.	REQUÊTES : Exemples d'extractions de données et de statistiques.
-UTILISATION
-Le script peut être exécuté dans un environnement SQL pour créer la base et tester les commandes.
+
+- 🎥 **Films** : Enregistrement des titres et des dates de sortie  
+- 🎭 **Acteurs** : Liste des personnes associées aux films  
+- 🏷️ **Catégories** : Organisation des films par genre  
+
+---
+
+## 📦 Contenu du script
+
+1. **Structure** : Création des tables et des relations entre elles  
+2. **Données** : Insertion d’un ensemble de films et d’acteurs pour tester la base  
+3. **Requêtes** : Exemples d’extraction de données et de statistiques  
+
+---
+
+## 🚀 Utilisation
+
+Le script peut être exécuté dans un environnement SQL afin de créer la base de données et tester les différentes commandes.
